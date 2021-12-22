@@ -1,4 +1,4 @@
 # GamesWebsite
-A website for displaying various types of games (Master Branch)
+A website for displaying various types of games and managing games (Master Branch)
 
 
